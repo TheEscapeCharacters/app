@@ -1,4 +1,4 @@
-               Training Process Checklist for new Trilinos team members
+    Training Process Checklist for new TheEscapeCharacters team members
 
 PLAN:        
   New team member name:  
